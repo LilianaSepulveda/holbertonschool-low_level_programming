@@ -1,1 +1,2 @@
-Doing a program will assign a random number to the variable n each time it is executed.
+0x01. C - Variables, if, else, while
+In this proyec learning about the use of if, else, while.
