@@ -1,1 +1,2 @@
-initial management exercises of the c program
+exercises on handling, language functioning c.
+Functions, neasted loops, pointer, arrays.
