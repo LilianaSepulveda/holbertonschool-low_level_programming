@@ -3,7 +3,7 @@
 /**
 *main - prints the number of arguments passed into it
 *@argc: Number of arguments into the program
-*@argv: Array to pointer to the arguments(unused)
+*@argv: Array to pointer to the arguments
 *
 *Return: Always 0.
 */
