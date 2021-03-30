@@ -2,9 +2,9 @@
 #define HOLBERTON_H
 
 
-/**
- * Content of the prototypes of the functions used in project 0x15. C - File I/O
- *           file descriptors.
+/*
+ *Desc: Content of the prototypes of the functions used in project
+ *        0x15. C - File I/O file descriptors.
  *
  */
 
