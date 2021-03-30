@@ -3,8 +3,7 @@
 
 
 /**
- *
- *content of the prototypes of the functions used in project 0x15. C - File I/O
+ * Content of the prototypes of the functions used in project 0x15. C - File I/O
  *           file descriptors.
  *
  */
